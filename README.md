@@ -66,3 +66,4 @@ To recap: steps to train and test a pix2pix GAN
 5) Run the test.py script
 - Generated images as well as the input and target images will all be in a new results directory
 
+# AirPhotos-Copy
